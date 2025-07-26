@@ -5,10 +5,7 @@ import com.fasterxml.jackson.annotation.JsonProperty;
 import com.projeto.amigo.secreto.entities.Grupo;
 import com.projeto.amigo.secreto.entities.Sorteio;
 import com.projeto.amigo.secreto.enums.StatusSorteio;
-import jakarta.validation.constraints.NotBlank;
 import jakarta.validation.constraints.NotNull;
-import jakarta.validation.constraints.Pattern;
-import jakarta.validation.constraints.Size;
 import lombok.Data;
 import java.time.LocalDateTime;
 

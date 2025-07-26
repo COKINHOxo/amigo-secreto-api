@@ -9,7 +9,7 @@ import com.projeto.amigo.secreto.repositories.PessoaRepository;
 import com.projeto.amigo.secreto.repositories.GrupoRepository;
 
 import java.util.List;
-import java.util.Optional;
+
 
 @Service
 public class PessoaService {
